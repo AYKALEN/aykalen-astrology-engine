@@ -1,0 +1,20 @@
+{
+  "source": "https://www.vedicastrologer.org/articles/hora.pdf",
+  "note": "Transcribed published chart positions rounded to arcminutes. These are independent reference inputs, not a recomputation with current ephemerides.",
+  "dalmia": {
+    "pdf_page": 4,
+    "d1_sign_degree_minute": {"AS": [1,26,23], "SU": [11,25,13], "MO": [7,29,47], "MA": [1,13,47], "ME": [11,14,34], "JU": [0,10,36], "VE": [11,18,39], "SA": [5,16,27], "RA": [0,7,3], "KE": [6,7,3]},
+    "d2_signs": {"AS": 6, "SU": 11, "MO": 7, "MA": 1, "ME": 8, "JU": 7, "VE": 11, "SA": 5, "RA": 7, "KE": 6},
+    "AL": 4, "UL": 8,
+    "md_signs": [8,4,0,11,7,3,2,10,6,5,1,9],
+    "md_years": [11,5,1,4,6,7,6,3,6,9,11,4],
+    "md_local_boundaries": ["1893-04-07T09:31:00+05:03", "1904-04-08T05:06:22+05:03", "1909-04-08T11:54:04+05:03", "1910-04-08T18:05:43+05:03", "1914-04-08T18:37:10+05:03", "1920-04-08T07:36:00+05:03", "1927-04-09T02:35:16+05:03", "1933-04-08T15:34:52+05:03", "1936-04-08T09:56:52+05:03", "1942-04-08T23:05:39+05:03", "1951-04-09T06:19:28+05:03", "1962-04-09T01:59:26+05:03", "1966-04-09T02:46:12+05:03"]
+  },
+  "ntr": {
+    "pdf_page": 10,
+    "d1_sign_degree_minute": {"AS": [6,19,13], "SU": [1,13,19], "MO": [6,18,50], "MA": [2,5,38], "ME": [1,14,18], "JU": [6,18,32], "VE": [0,15,28], "SA": [5,20,53], "RA": [4,23,45], "KE": [10,23,45]},
+    "d2_signs": {"AS": 1, "SU": 1, "MO": 1, "MA": 5, "ME": 1, "JU": 1, "VE": 0, "SA": 5, "RA": 3, "KE": 9},
+    "AL": 11, "UL": 10,
+    "narrative_periods": [{"sign": 11, "start_year": 1957, "end_year": 1967}, {"sign": 2, "start_year": 1983, "end_year": 1994}]
+  }
+}

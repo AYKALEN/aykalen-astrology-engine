@@ -1,0 +1,12 @@
+{
+  "birth": {
+    "date": "2000-06-15",
+    "time": "12:00:00",
+    "timezone": "UTC",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  "target_year": 2026,
+  "allowed_vargas": ["D1", "D9", "D10"],
+  "sunrise_mode": "center"
+}
